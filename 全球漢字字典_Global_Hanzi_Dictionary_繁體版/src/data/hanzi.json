@@ -1,0 +1,111 @@
+[
+  {
+    "char": "愛",
+    "simplified": "爱",
+    "japanese": "愛",
+    "korean": "애",
+    "nom": [
+      "𡢘"
+    ],
+    "pinyin": "ài",
+    "kunyomi": "あい",
+    "meaning": "愛；情感",
+    "unicode": "611B",
+    "origin": [
+      "China",
+      "Japan",
+      "Vietnam"
+    ]
+  },
+  {
+    "char": "學",
+    "simplified": "学",
+    "japanese": "学",
+    "korean": "학",
+    "nom": [
+      "𡨸"
+    ],
+    "pinyin": "xué",
+    "kunyomi": "がく",
+    "meaning": "學習；學問",
+    "unicode": "5B78",
+    "origin": [
+      "China",
+      "Japan",
+      "Vietnam"
+    ]
+  },
+  {
+    "char": "國",
+    "simplified": "国",
+    "japanese": "国",
+    "korean": "국",
+    "nom": [
+      "𫑮"
+    ],
+    "pinyin": "guó",
+    "kunyomi": "こく",
+    "meaning": "國家；民族",
+    "unicode": "570B",
+    "origin": [
+      "China",
+      "Japan",
+      "Korea",
+      "Vietnam"
+    ]
+  },
+  {
+    "char": "榮",
+    "simplified": "荣",
+    "japanese": "栄",
+    "korean": "영",
+    "nom": [
+      "榮"
+    ],
+    "pinyin": "róng",
+    "kunyomi": "えい",
+    "meaning": "榮耀；光榮",
+    "unicode": "69AE",
+    "origin": [
+      "China",
+      "Japan",
+      "Korea",
+      "Vietnam"
+    ]
+  },
+  {
+    "char": "天",
+    "simplified": "天",
+    "japanese": "天",
+    "korean": "천",
+    "nom": [
+      "天"
+    ],
+    "pinyin": "tiān",
+    "kunyomi": "てん",
+    "meaning": "天空；天界",
+    "unicode": "5929",
+    "origin": [
+      "China",
+      "Japan",
+      "Korea",
+      "Vietnam"
+    ]
+  },
+  {
+    "char": "𪜈",
+    "simplified": "𪜈",
+    "japanese": "",
+    "korean": "",
+    "nom": [
+      "𪜈"
+    ],
+    "pinyin": "",
+    "kunyomi": "",
+    "meaning": "越南古文喃字（罕見）",
+    "unicode": "2A708",
+    "origin": [
+      "Vietnam"
+    ]
+  }
+]
